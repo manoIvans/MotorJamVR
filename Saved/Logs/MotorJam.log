@@ -2233,3 +2233,232 @@ The following settings have been applied:
 [2025.06.02-19.21.51:190][380]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/Puzzle_Ivan_Texturas/Parquet_Trials_normal Validando ativo
 [2025.06.02-19.21.51:190][380]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/Puzzle_Ivan_Texturas/wood-71_diffuse Validando ativo
 [2025.06.02-19.21.51:190][380]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/Puzzle_Ivan_Texturas/leather30_roughness Validando ativo
+[2025.06.02-19.25.19:348][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 354.650482
+[2025.06.02-19.25.20:346][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-19.25.20:346][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 355.316559, Update Interval: 324.187134
+[2025.06.02-19.29.34:501][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.06.02-19.29.34:506][563]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.016
+[2025.06.02-19.29.34:507][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_003] ([1] browsable assets)...
+[2025.06.02-19.29.34:537][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_003.defaultMaterial_003]
+[2025.06.02-19.29.34:537][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_003]
+[2025.06.02-19.29.34:541][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_003_Auto1
+[2025.06.02-19.29.34:541][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_003_Auto1FE4D13564FDD645617D5099F008DEA40.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_003_Auto1.uasset'
+[2025.06.02-19.29.34:542][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial] ([1] browsable assets)...
+[2025.06.02-19.29.34:550][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Espelho/defaultMaterial.defaultMaterial]
+[2025.06.02-19.29.34:551][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial]
+[2025.06.02-19.29.34:558][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_Auto1
+[2025.06.02-19.29.34:558][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_Auto100DF3F3540B4D442F3778F9FA349045D.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_Auto1.uasset'
+[2025.06.02-19.29.34:559][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_002] ([1] browsable assets)...
+[2025.06.02-19.29.34:571][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_002.defaultMaterial_002]
+[2025.06.02-19.29.34:571][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_002]
+[2025.06.02-19.29.34:576][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_002_Auto1
+[2025.06.02-19.29.34:576][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_002_Auto1B8D94DEF44AD3A3CC619D0A1943B0531.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_002_Auto1.uasset'
+[2025.06.02-19.29.34:578][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_001] ([1] browsable assets)...
+[2025.06.02-19.29.34:585][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_001.defaultMaterial_001]
+[2025.06.02-19.29.34:585][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_001]
+[2025.06.02-19.29.34:589][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_001_Auto1
+[2025.06.02-19.29.34:589][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_001_Auto1FEBE6AF34DE0E3201338D79086168B98.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_001_Auto1.uasset'
+[2025.06.02-19.29.34:590][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_004] ([1] browsable assets)...
+[2025.06.02-19.29.34:596][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_004.defaultMaterial_004]
+[2025.06.02-19.29.34:596][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_004]
+[2025.06.02-19.29.34:601][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_004_Auto1
+[2025.06.02-19.29.34:601][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_004_Auto1AC2E893648A6CA828FCC0C9E539A73B0.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_004_Auto1.uasset'
+[2025.06.02-19.29.34:603][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_005] ([1] browsable assets)...
+[2025.06.02-19.29.34:626][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_005.defaultMaterial_005]
+[2025.06.02-19.29.34:626][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_005]
+[2025.06.02-19.29.34:631][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_005_Auto1
+[2025.06.02-19.29.34:631][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_005_Auto1A80796DD4CD51D3112AD748CACD6A600.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_005_Auto1.uasset'
+[2025.06.02-19.29.34:633][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/4] ([1] browsable assets)...
+[2025.06.02-19.29.34:658][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Puzzle_Ivan/4.4]
+[2025.06.02-19.29.34:658][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/4]
+[2025.06.02-19.29.34:661][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/4_Auto1
+[2025.06.02-19.29.34:662][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/4_Auto18DDA92A140A93A7A0CF7B6B98990E716.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/4_Auto1.uasset'
+[2025.06.02-19.29.34:664][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/1] ([1] browsable assets)...
+[2025.06.02-19.29.34:688][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Puzzle_Ivan/1.1]
+[2025.06.02-19.29.34:688][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/1]
+[2025.06.02-19.29.34:692][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/1_Auto1
+[2025.06.02-19.29.34:692][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/1_Auto1474E4C9449D56345A290BD8F80935D67.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/1_Auto1.uasset'
+[2025.06.02-19.29.34:694][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/2] ([1] browsable assets)...
+[2025.06.02-19.29.34:701][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Puzzle_Ivan/2.2]
+[2025.06.02-19.29.34:701][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/2]
+[2025.06.02-19.29.34:707][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/2_Auto1
+[2025.06.02-19.29.34:707][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/2_Auto18F5427534DCDEB38F01716A9C3025CDA.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/2_Auto1.uasset'
+[2025.06.02-19.29.34:709][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/5] ([1] browsable assets)...
+[2025.06.02-19.29.34:753][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Puzzle_Ivan/5.5]
+[2025.06.02-19.29.34:753][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/5]
+[2025.06.02-19.29.34:758][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/5_Auto1
+[2025.06.02-19.29.34:758][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/5_Auto1E92B59654E0B2C11EB9EF3BD4D8650AA.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/5_Auto1.uasset'
+[2025.06.02-19.29.34:759][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/6] ([1] browsable assets)...
+[2025.06.02-19.29.34:800][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Puzzle_Ivan/6.6]
+[2025.06.02-19.29.34:800][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/6]
+[2025.06.02-19.29.34:804][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/6_Auto1
+[2025.06.02-19.29.34:804][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/6_Auto163F4346F47D1BE93F203B28EFC48AAF8.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/6_Auto1.uasset'
+[2025.06.02-19.29.34:806][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/7] ([1] browsable assets)...
+[2025.06.02-19.29.34:848][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Puzzle_Ivan/7.7]
+[2025.06.02-19.29.34:848][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/7]
+[2025.06.02-19.29.34:851][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/7_Auto1
+[2025.06.02-19.29.34:851][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/7_Auto178BF07704A474DC609985BB324945851.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/7_Auto1.uasset'
+[2025.06.02-19.29.34:852][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube] ([1] browsable assets)...
+[2025.06.02-19.29.34:860][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube.Cube]
+[2025.06.02-19.29.34:860][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube]
+[2025.06.02-19.29.34:865][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_Auto1
+[2025.06.02-19.29.34:865][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Cube_Auto1FE93EF1D43A4EA3899050D98AF920720.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_Auto1.uasset'
+[2025.06.02-19.29.34:867][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/3] ([1] browsable assets)...
+[2025.06.02-19.29.34:883][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Puzzle_Ivan/3.3]
+[2025.06.02-19.29.34:883][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/3]
+[2025.06.02-19.29.34:887][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/3_Auto1
+[2025.06.02-19.29.34:888][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/3_Auto1F4E1E2734DDE5E50BBF01E8D49ACBCE4.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/3_Auto1.uasset'
+[2025.06.02-19.29.34:889][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006] ([1] browsable assets)...
+[2025.06.02-19.29.34:914][563]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006.Cube_006]
+[2025.06.02-19.29.34:914][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006]
+[2025.06.02-19.29.34:919][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006_Auto1
+[2025.06.02-19.29.34:919][563]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Cube_006_Auto17EB102C548511DFDFA169E81DB78230C.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006_Auto1.uasset'
+[2025.06.02-19.29.34:920][563]LogFileHelpers: Auto-saving content packages took 0.415
+[2025.06.02-19.30.48:317][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 683.620483
+[2025.06.02-19.30.49:318][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-19.30.49:318][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 684.288635, Update Interval: 323.203827
+[2025.06.02-19.32.28:074][ 83]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.02-19.33.15:845][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.06.02-19.33.17:479][227]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2025.06.02-19.33.17:493][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.02-19.33.17:541][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/1] ([1] browsable assets)...
+[2025.06.02-19.33.17:541][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/1]
+[2025.06.02-19.33.17:544][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Puzzle_Ivan/1
+[2025.06.02-19.33.17:545][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/121E467154F39E55B226F9E8B1A564612.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Puzzle_Ivan/1.uasset'
+[2025.06.02-19.33.17:546][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/2] ([1] browsable assets)...
+[2025.06.02-19.33.17:546][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/2]
+[2025.06.02-19.33.17:554][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Puzzle_Ivan/2
+[2025.06.02-19.33.17:554][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/2D93144F94EAA24260112FE86B09BDE12.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Puzzle_Ivan/2.uasset'
+[2025.06.02-19.33.17:555][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/3] ([1] browsable assets)...
+[2025.06.02-19.33.17:555][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/3]
+[2025.06.02-19.33.17:558][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Puzzle_Ivan/3
+[2025.06.02-19.33.17:558][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/35BC3CC064DF8C35D26BCE4A0465DB4CA.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Puzzle_Ivan/3.uasset'
+[2025.06.02-19.33.17:560][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/4] ([1] browsable assets)...
+[2025.06.02-19.33.17:560][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/4]
+[2025.06.02-19.33.17:562][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Puzzle_Ivan/4
+[2025.06.02-19.33.17:563][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/4253313F341C84EA82125718720ECC219.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Puzzle_Ivan/4.uasset'
+[2025.06.02-19.33.17:564][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/5] ([1] browsable assets)...
+[2025.06.02-19.33.17:564][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/5]
+[2025.06.02-19.33.17:567][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Puzzle_Ivan/5
+[2025.06.02-19.33.17:567][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/58EE5DFBF4A48AA958ABF5BA1BE71E6EB.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Puzzle_Ivan/5.uasset'
+[2025.06.02-19.33.17:569][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/6] ([1] browsable assets)...
+[2025.06.02-19.33.17:569][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/6]
+[2025.06.02-19.33.17:571][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Puzzle_Ivan/6
+[2025.06.02-19.33.17:572][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/606054CBA46915FE552AABF97519E8478.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Puzzle_Ivan/6.uasset'
+[2025.06.02-19.33.17:573][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/7] ([1] browsable assets)...
+[2025.06.02-19.33.17:573][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/7]
+[2025.06.02-19.33.17:585][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Puzzle_Ivan/7
+[2025.06.02-19.33.17:586][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/768DE49A74E54871E52C34E83D43B3E78.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Puzzle_Ivan/7.uasset'
+[2025.06.02-19.33.17:587][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube] ([1] browsable assets)...
+[2025.06.02-19.33.17:587][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube]
+[2025.06.02-19.33.17:589][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube
+[2025.06.02-19.33.17:589][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Cube720401294CDE5E70349D5D97DEE08A10.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Puzzle_Ivan/Cube.uasset'
+[2025.06.02-19.33.17:590][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006] ([1] browsable assets)...
+[2025.06.02-19.33.17:590][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006]
+[2025.06.02-19.33.17:594][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006
+[2025.06.02-19.33.17:595][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Cube_006DD326865426B67FB6B76CE9DB9BAD531.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006.uasset'
+[2025.06.02-19.33.17:596][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial] ([1] browsable assets)...
+[2025.06.02-19.33.17:596][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial]
+[2025.06.02-19.33.17:600][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial
+[2025.06.02-19.33.17:601][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial058F8F0B426D92D60332A1B1660C3C8C.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Espelho/defaultMaterial.uasset'
+[2025.06.02-19.33.17:603][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_001] ([1] browsable assets)...
+[2025.06.02-19.33.17:603][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_001]
+[2025.06.02-19.33.17:620][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_001
+[2025.06.02-19.33.17:620][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_0011635D0AF46EAA17CA63C7BAEF45513E8.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Espelho/defaultMaterial_001.uasset'
+[2025.06.02-19.33.17:621][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_002] ([1] browsable assets)...
+[2025.06.02-19.33.17:621][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_002]
+[2025.06.02-19.33.17:625][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_002
+[2025.06.02-19.33.17:626][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_002EC9CFFD947400CA17D151782B83D1528.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Espelho/defaultMaterial_002.uasset'
+[2025.06.02-19.33.17:627][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_003] ([1] browsable assets)...
+[2025.06.02-19.33.17:627][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_003]
+[2025.06.02-19.33.17:630][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_003
+[2025.06.02-19.33.17:630][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_0037D2F985941D5920867A98180F7724495.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Espelho/defaultMaterial_003.uasset'
+[2025.06.02-19.33.17:631][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_004] ([1] browsable assets)...
+[2025.06.02-19.33.17:631][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_004]
+[2025.06.02-19.33.17:634][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_004
+[2025.06.02-19.33.17:634][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_004CDFA8C3E4DDC2C40D2DF2D8E8DD00647.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Espelho/defaultMaterial_004.uasset'
+[2025.06.02-19.33.17:635][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_005] ([1] browsable assets)...
+[2025.06.02-19.33.17:635][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/defaultMaterial_005]
+[2025.06.02-19.33.17:639][227]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_005
+[2025.06.02-19.33.17:640][227]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/defaultMaterial_005856C9BD9402CFE45824F989B1D0EF420.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Espelho/defaultMaterial_005.uasset'
+[2025.06.02-19.33.17:650][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.860 ms (total: 1.48 sec)
+[2025.06.02-19.33.17:855][227]LogStall: Shutdown...
+[2025.06.02-19.33.17:855][227]LogStall: Shutdown complete.
+[2025.06.02-19.33.18:149][227]LogSlate: Window 'MotorJam — Unreal Editor' being destroyed
+[2025.06.02-19.33.18:365][227]LogContentValidation: Display: Starting to validate 15 assets
+[2025.06.02-19.33.18:365][227]LogContentValidation: Enabled validators:
+[2025.06.02-19.33.18:365][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.02-19.33.18:365][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.02-19.33.18:365][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.02-19.33.18:365][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.02-19.33.18:365][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.02-19.33.18:365][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.02-19.33.18:365][227]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/1 Validando ativo
+[2025.06.02-19.33.18:365][227]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/2 Validando ativo
+[2025.06.02-19.33.18:365][227]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/3 Validando ativo
+[2025.06.02-19.33.18:365][227]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/4 Validando ativo
+[2025.06.02-19.33.18:365][227]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/5 Validando ativo
+[2025.06.02-19.33.18:365][227]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/6 Validando ativo
+[2025.06.02-19.33.18:365][227]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/7 Validando ativo
+[2025.06.02-19.33.18:366][227]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube Validando ativo
+[2025.06.02-19.33.18:366][227]AssetCheck: /Game/ModelosProprios/Objetos/Puzzle_Ivan/Cube_006 Validando ativo
+[2025.06.02-19.33.18:366][227]AssetCheck: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial Validando ativo
+[2025.06.02-19.33.18:366][227]AssetCheck: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_001 Validando ativo
+[2025.06.02-19.33.18:366][227]AssetCheck: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_002 Validando ativo
+[2025.06.02-19.33.18:366][227]AssetCheck: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_003 Validando ativo
+[2025.06.02-19.33.18:366][227]AssetCheck: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_004 Validando ativo
+[2025.06.02-19.33.18:366][227]AssetCheck: /Game/ModelosProprios/Objetos/Espelho/defaultMaterial_005 Validando ativo
+[2025.06.02-19.33.18:373][227]Cmd: QUIT_EDITOR
+[2025.06.02-19.33.18:373][227]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.02-19.33.18:428][228]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.02-19.33.18:428][228]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.02-19.33.18:428][228]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.02-19.33.18:490][228]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-19.33.18:490][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-19.33.18:601][228]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.02-19.33.18:745][228]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.02-19.33.18:820][228]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-19.33.18:820][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-19.33.18:830][228]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-19.33.18:830][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-19.33.18:831][228]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-19.33.18:831][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-19.33.18:970][228]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.02-19.33.18:999][228]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.06.02-19.33.19:002][228]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.06.02-19.33.19:002][228]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.06.02-19.33.19:058][228]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.02-19.33.19:059][228]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.02-19.33.19:059][228]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2025.06.02-19.33.19:066][228]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.02-19.33.19:076][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.02-19.33.19:122][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.02-19.33.19:332][228]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.02-19.33.19:334][228]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.02-19.33.19:335][228]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2025.06.02-19.33.19:355][228]LogExit: Preparing to exit.
+[2025.06.02-19.33.19:538][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.06.02-19.33.20:611][228]LogEditorDataStorage: Deinitializing
+[2025.06.02-19.33.21:042][228]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.02-19.33.21:390][228]LogExit: Editor shut down
+[2025.06.02-19.33.21:443][228]LogExit: Transaction tracking system shut down
+[2025.06.02-19.33.23:155][228]LogExit: Object subsystem successfully closed.
+[2025.06.02-19.33.23:203][228]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.02-19.33.24:492][228]LogMemoryProfiler: Shutdown
+[2025.06.02-19.33.24:502][228]LogNetworkingProfiler: Shutdown
+[2025.06.02-19.33.24:502][228]LoadingProfiler: Shutdown
+[2025.06.02-19.33.24:507][228]LogTimingProfiler: Shutdown
+[2025.06.02-19.33.27:195][228]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.06.02-19.33.27:198][228]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.02-19.33.27:207][228]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.06.02-19.33.27:207][228]LogNFORDenoise: NFORDenoise function shutting down
+[2025.06.02-19.33.27:212][228]RenderDocPlugin: plugin has been unloaded.
+[2025.06.02-19.33.27:243][228]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.02-19.33.27:243][228]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6470926-41A5-A1F8-77E2-B5929DDDB40D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=98b68b1a4317c7cdad119daf8f88cc04%7Cd19542bfa7d44c8e88c36dd1470e1097%7Ca872e974-8ba5-4dee-949b-f51298ac3fc7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.02-19.33.28:458][228]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.02-19.33.28:825][228]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.06.02-19.33.28:825][228]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.06.02-19.33.28:830][228]LogPakFile: Destroying PakPlatformFile
+[2025.06.02-19.33.29:137][228]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.02-19.33.29:195][228]LogExit: Exiting.
+[2025.06.02-19.33.29:351][228]Log file closed, 06/02/25 16:33:29
