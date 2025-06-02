@@ -3279,3 +3279,411 @@ The following settings have been applied:
 [2025.06.02-13.18.31:698][952]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/VRTemplateMap_Auto1E56506C946446A7194C483995477D228.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
 [2025.06.02-13.18.31:699][952]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.062
 [2025.06.02-13.18.31:699][952]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2025.06.02-13.21.21:678][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 981.163269
+[2025.06.02-13.21.21:863][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-13.21.21:863][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 981.339722, Update Interval: 321.431305
+[2025.06.02-13.22.05:691][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModelosProprios/Objetos/triangulo.triangulo
+[2025.06.02-13.22.05:691][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModelosProprios/Objetos/triangulo.triangulo
+[2025.06.02-13.22.05:691][561]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModelosProprios/Objetos/triangulo.triangulo as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_39
+[2025.06.02-13.22.08:238][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.06.02-13.22.08:245][830]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.06.02-13.22.08:250][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModelosProprios/Objetos/triangulo.triangulo
+[2025.06.02-13.22.08:250][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModelosProprios/Objetos/triangulo.triangulo
+[2025.06.02-13.22.08:252][830]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModelosProprios/Objetos/triangulo.triangulo as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_40
+[2025.06.02-13.22.10:126][ 33]Cmd: DELETE
+[2025.06.02-13.22.10:126][ 33]Cmd: ACTOR DELETE
+[2025.06.02-13.22.10:130][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.02-13.22.10:142][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.06.02-13.22.10:145][ 33]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.06.02-13.26.55:013][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1314.502441
+[2025.06.02-13.26.56:013][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-13.26.56:013][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1315.168945, Update Interval: 318.032776
+[2025.06.02-13.28.32:083][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.06.02-13.28.32:127][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2025.06.02-13.28.32:127][763]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/VRTemplateMap_Auto22B4BE215454FE0FB064443BE70D3BC92.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2025.06.02-13.28.32:129][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.059
+[2025.06.02-13.28.32:129][763]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2025.06.02-13.32.42:425][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1661.914429
+[2025.06.02-13.32.43:425][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-13.32.43:425][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1662.581421, Update Interval: 305.731384
+[2025.06.02-13.38.21:509][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2000.996948
+[2025.06.02-13.38.22:509][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-13.38.22:509][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2001.663452, Update Interval: 331.639771
+[2025.06.02-13.44.29:251][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2368.739746
+[2025.06.02-13.44.30:251][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-13.44.30:251][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2369.406982, Update Interval: 343.384491
+[2025.06.02-13.50.54:327][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2753.816162
+[2025.06.02-13.50.55:327][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.02-13.50.55:327][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2754.482910, Update Interval: 337.107452
+[2025.06.02-13.53.12:915][259]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.02-13.53.12:923][259]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.02-13.53.12:932][260]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.02-13.53.18:121][849]LogContentBrowser: Attempting asset rename: NewFolder -> Calendario
+[2025.06.02-13.53.18:122][849]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.02-13.53.22:692][336]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.02-13.53.22:701][336]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.02-13.53.22:727][338]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.02-13.53.30:121][201]LogContentBrowser: Attempting asset rename: NewFolder -> Calendario_Texturas
+[2025.06.02-13.53.30:122][201]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.02-13.53.32:912][504]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.02-13.53.32:920][504]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.02-13.53.32:940][505]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.02-13.53.40:131][351]LogContentBrowser: Attempting asset rename: NewFolder -> Calendario_Material
+[2025.06.02-13.53.40:132][351]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.02-13.53.51:780][985]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-13.53.51:844][985]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Pichau/Downloads/calendario.glb]
+[2025.06.02-13.54.00:544][985]LogSlate: Window 'ImportContent' being destroyed
+[2025.06.02-13.54.00:577][985]LogInterchangeEngine: [Pendente] Importando
+[2025.06.02-13.54.00:673][986]LogStreaming: Display: FlushAsyncLoading(489): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-13.54.00:741][987]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-13.54.00:863][989]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-13.54.00:929][990]LogStreaming: Display: FlushAsyncLoading(499): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-13.54.01:062][992]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.02-13.54.01:129][993]LogTexture: Display: Texturas de compilação: /Game/ModelosProprios/Objetos/Calendario/cuttingboard.cuttingboard (BGRA8, 1360X906 X1X1X1) (Memória necessária estimada: 43.302856 MB), EncodeSpeed: Fast
+[2025.06.02-13.54.01:132][993]LogTexture: Display: Texturas de compilação: /Game/ModelosProprios/Objetos/Calendario/grunge_metal.grunge_metal (TFO_AutoDXT, 1500X1600 X1X1X1) (Memória necessária estimada: 171.432129 MB), EncodeSpeed: Fast
+[2025.06.02-13.54.01:139][993]LogTexture: Display: Texturas de compilação: /Game/ModelosProprios/Objetos/Calendario/calendar_page_2.calendar_page_2 (TFO_AutoDXT, 1920X2500 X1X1X1) (Memória necessária estimada: 321.43457 MB), EncodeSpeed: Fast
+[2025.06.02-13.54.01:146][993]LogTexture: Display: Texturas de compilação: /Game/ModelosProprios/Objetos/Calendario/2011-06-11-09557.2011-06-11-09557 (BGRA8, 4000X2667 X1X1X1) (Memória necessária estimada: 367.256714 MB), EncodeSpeed: Fast
+[2025.06.02-13.54.01:280][996]LogStaticMesh: Display: Construindo malha estática calendario (Estimativa de memória necessária: 18.644198 MB)...
+[2025.06.02-13.54.01:282][996]LogTexture: Display: Texturas de compilação: /Game/ModelosProprios/Objetos/Calendario/JANUARY.JANUARY (TFO_AutoDXT, 1024X1536 X1X1X1) (Memória necessária estimada: 137.250 MB), EncodeSpeed: Fast
+[2025.06.02-13.54.01:493][  5]LogStaticMesh: Adjacency [0.00s], tris: 11656, UVs 1
+[2025.06.02-13.54.01:520][  7]LogStaticMesh: Clustering [0.03s]. Ratio: 1.010870
+[2025.06.02-13.54.01:524][  8]LogStaticMesh: Leaves [0.00s]
+[2025.06.02-13.54.01:839][ 34]LogStaticMesh: Reduce [0.32s]
+[2025.06.02-13.54.02:000][ 50]LogStaticMesh: Fallback [0.16s], num tris: 9829
+[2025.06.02-13.54.02:040][ 53]LogStaticMesh: ConstrainClusters:
+[2025.06.02-13.54.02:040][ 53]LogStaticMesh:   Input: 188 Clusters, 23621 Triangles and 51430 Vertices
+[2025.06.02-13.54.02:040][ 53]LogStaticMesh:   Output without splits: 188 Clusters, 23621 Triangles and 51430 Vertices
+[2025.06.02-13.54.02:040][ 53]LogStaticMesh:   Output with splits: 358 Clusters, 23621 Triangles and 51584 Vertices
+[2025.06.02-13.54.02:041][ 53]LogStaticMesh: Material Stats - Unique Materials: 6, Fast Path Clusters: 352, Slow Path Clusters: 6, 1 Material: 339, 2 Materials: 11, 3 Materials: 2, At Least 4 Materials: 6
+[2025.06.02-13.54.02:048][ 54]LogStaticMesh: WritePages:
+[2025.06.02-13.54.02:048][ 54]LogStaticMesh:   Root: GPU size: 32216 bytes. 1 Pages. 32216.000 bytes per page (98.315% utilization).
+[2025.06.02-13.54.02:048][ 54]LogStaticMesh:   Streaming: GPU size: 477972 bytes. 4 Pages (4 with relative encoding). 119493.000 bytes per page (91.166% utilization).
+[2025.06.02-13.54.02:048][ 54]LogStaticMesh:   Page data disk size: 534276 bytes. Fixup data size: 2128 bytes.
+[2025.06.02-13.54.02:048][ 54]LogStaticMesh:   Total GPU size: 510188 bytes, Total disk size: 536404 bytes.
+[2025.06.02-13.54.02:048][ 54]LogStaticMesh: Encode [0.05s]
+[2025.06.02-13.54.02:048][ 54]LogStaticMesh: Nanite build [0.56s]
+
+[2025.06.02-13.54.02:092][ 58]LogStaticMesh: Built static mesh [0.81s] /Game/ModelosProprios/Objetos/Calendario/calendario.calendario
+[2025.06.02-13.54.07:499][553]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Pichau/Downloads/calendario.glb]
+[2025.06.02-13.54.07:499][553]Interchange: Warning: [C:/Users/Pichau/Downloads/calendario.glb : '', Unknown] Ativos renomeados: 
+ Nome original: [/Game/ModelosProprios/Objetos/Calendario/grunge_metal] Novo nome: [/Game/ModelosProprios/Objetos/Calendario/grunge_metal1]
+[2025.06.02-13.54.07:517][553]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.06.02-13.54.07:517][553]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.06.02-13.54.10:602][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.02-13.54.10:607][770]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.020
+[2025.06.02-13.54.10:608][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/torn_paper] ([1] browsable assets)...
+[2025.06.02-13.54.10:614][770]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ModelosProprios/Objetos/Calendario/torn_paper.torn_paper]
+[2025.06.02-13.54.10:614][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/torn_paper]
+[2025.06.02-13.54.10:616][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/torn_paper_Auto3
+[2025.06.02-13.54.10:616][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/torn_paper_Auto31F028A7145A79BC5CFDD39A560E7EFD6.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/torn_paper_Auto3.uasset'
+[2025.06.02-13.54.10:617][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/2011-06-11-09557] ([1] browsable assets)...
+[2025.06.02-13.54.10:619][770]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelosProprios/Objetos/Calendario/2011-06-11-09557.2011-06-11-09557]
+[2025.06.02-13.54.10:619][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/2011-06-11-09557]
+[2025.06.02-13.54.10:720][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/2011-06-11-09557_Auto3
+[2025.06.02-13.54.10:720][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/2011-06-11-09557_Auto3AE01882C4D1D77267E4EAC8F4E613E58.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/2011-06-11-09557_Auto3.uasset'
+[2025.06.02-13.54.10:721][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/cuttingboard] ([1] browsable assets)...
+[2025.06.02-13.54.10:722][770]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelosProprios/Objetos/Calendario/cuttingboard.cuttingboard]
+[2025.06.02-13.54.10:722][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/cuttingboard]
+[2025.06.02-13.54.10:726][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/cuttingboard_Auto3
+[2025.06.02-13.54.10:727][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/cuttingboard_Auto38E4D917D4A4F1899DCACFDB424CAAC16.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/cuttingboard_Auto3.uasset'
+[2025.06.02-13.54.10:728][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/grunge_metal] ([1] browsable assets)...
+[2025.06.02-13.54.10:729][770]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelosProprios/Objetos/Calendario/grunge_metal.grunge_metal]
+[2025.06.02-13.54.10:729][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/grunge_metal]
+[2025.06.02-13.54.10:736][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/grunge_metal_Auto3
+[2025.06.02-13.54.10:736][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/grunge_metal_Auto37AF6B3874B1B694AF822DAADD5C693C7.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/grunge_metal_Auto3.uasset'
+[2025.06.02-13.54.10:737][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/calendar_page_2] ([1] browsable assets)...
+[2025.06.02-13.54.10:738][770]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelosProprios/Objetos/Calendario/calendar_page_2.calendar_page_2]
+[2025.06.02-13.54.10:738][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/calendar_page_2]
+[2025.06.02-13.54.10:756][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/calendar_page_2_Auto3
+[2025.06.02-13.54.10:756][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/calendar_page_2_Auto3696F5364498B3E1A94F9D5BC26A87448.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/calendar_page_2_Auto3.uasset'
+[2025.06.02-13.54.10:757][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Material_020] ([1] browsable assets)...
+[2025.06.02-13.54.10:769][770]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ModelosProprios/Objetos/Calendario/Material_020.Material_020]
+[2025.06.02-13.54.10:769][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Material_020]
+[2025.06.02-13.54.10:771][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/Material_020_Auto3
+[2025.06.02-13.54.10:771][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Material_020_Auto39FA6B647491DDC2145C25FA2995AC7EF.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/Material_020_Auto3.uasset'
+[2025.06.02-13.54.10:772][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/grunge_metal1] ([1] browsable assets)...
+[2025.06.02-13.54.10:786][770]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ModelosProprios/Objetos/Calendario/grunge_metal1.grunge_metal1]
+[2025.06.02-13.54.10:786][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/grunge_metal1]
+[2025.06.02-13.54.10:790][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/grunge_metal1_Auto3
+[2025.06.02-13.54.10:790][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/grunge_metal1_Auto35936E28244149596979D848CDB9B6C4D.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/grunge_metal1_Auto3.uasset'
+[2025.06.02-13.54.10:790][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Old_calendar_pages] ([1] browsable assets)...
+[2025.06.02-13.54.10:798][770]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ModelosProprios/Objetos/Calendario/Old_calendar_pages.Old_calendar_pages]
+[2025.06.02-13.54.10:798][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Old_calendar_pages]
+[2025.06.02-13.54.10:801][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/Old_calendar_pages_Auto3
+[2025.06.02-13.54.10:801][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Old_calendar_pages_Auto38EFB61384E50CF44D6EC699DFC4124D9.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/Old_calendar_pages_Auto3.uasset'
+[2025.06.02-13.54.10:802][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/JANUARY] ([1] browsable assets)...
+[2025.06.02-13.54.10:804][770]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelosProprios/Objetos/Calendario/JANUARY.JANUARY]
+[2025.06.02-13.54.10:804][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/JANUARY]
+[2025.06.02-13.54.10:808][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/JANUARY_Auto3
+[2025.06.02-13.54.10:808][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/JANUARY_Auto390BD34D9425BCEDC5E48AC87199E3875.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/JANUARY_Auto3.uasset'
+[2025.06.02-13.54.10:809][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/old_rust_001] ([1] browsable assets)...
+[2025.06.02-13.54.10:823][770]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ModelosProprios/Objetos/Calendario/old_rust_001.old_rust_001]
+[2025.06.02-13.54.10:823][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/old_rust_001]
+[2025.06.02-13.54.10:825][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/old_rust_001_Auto3
+[2025.06.02-13.54.10:825][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/old_rust_001_Auto331EA47D149A267A9B5789EA182A4E2FA.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/old_rust_001_Auto3.uasset'
+[2025.06.02-13.54.10:826][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Old_calendar] ([1] browsable assets)...
+[2025.06.02-13.54.10:841][770]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ModelosProprios/Objetos/Calendario/Old_calendar.Old_calendar]
+[2025.06.02-13.54.10:841][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Old_calendar]
+[2025.06.02-13.54.10:843][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/Old_calendar_Auto3
+[2025.06.02-13.54.10:843][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Old_calendar_Auto346DEFB5E4170A4402A96D098B47C2C97.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/Old_calendar_Auto3.uasset'
+[2025.06.02-13.54.10:844][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/calendario] ([1] browsable assets)...
+[2025.06.02-13.54.10:858][770]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosProprios/Objetos/Calendario/calendario.calendario]
+[2025.06.02-13.54.10:858][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/calendario]
+[2025.06.02-13.54.10:866][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModelosProprios/Objetos/Calendario/calendario_Auto3
+[2025.06.02-13.54.10:866][770]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/calendario_Auto3364DB42146D48E37E29603B4AEC21599.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Autosaves/Game/ModelosProprios/Objetos/Calendario/calendario_Auto3.uasset'
+[2025.06.02-13.54.10:867][770]LogFileHelpers: Auto-saving content packages took 0.260
+[2025.06.02-13.54.14:300][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.02-13.54.14:301][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/torn_paper] ([1] browsable assets)...
+[2025.06.02-13.54.14:301][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/torn_paper]
+[2025.06.02-13.54.14:302][ 87]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/torn_paper
+[2025.06.02-13.54.14:302][ 87]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/torn_paperD770F7D840764EBE13389991DCC5353F.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/torn_paper.uasset'
+[2025.06.02-13.54.14:303][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020] ([1] browsable assets)...
+[2025.06.02-13.54.14:303][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020]
+[2025.06.02-13.54.14:305][ 87]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020
+[2025.06.02-13.54.14:305][ 87]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Material_02095B623AF4DFFCDABAC6BFEAAB3C964AD.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020.uasset'
+[2025.06.02-13.54.14:306][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1] ([1] browsable assets)...
+[2025.06.02-13.54.14:306][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1]
+[2025.06.02-13.54.14:308][ 87]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1
+[2025.06.02-13.54.14:308][ 87]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/grunge_metal12076400E4244D09489D291830B43E489.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1.uasset'
+[2025.06.02-13.54.14:309][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages] ([1] browsable assets)...
+[2025.06.02-13.54.14:309][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages]
+[2025.06.02-13.54.14:311][ 87]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages
+[2025.06.02-13.54.14:311][ 87]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Old_calendar_pagesCCAAF9F5463F59E554903D9968733310.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages.uasset'
+[2025.06.02-13.54.14:312][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001] ([1] browsable assets)...
+[2025.06.02-13.54.14:312][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001]
+[2025.06.02-13.54.14:314][ 87]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001
+[2025.06.02-13.54.14:315][ 87]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/old_rust_001C9A46CE14E7FB7A3BE09848EB4C5C635.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001.uasset'
+[2025.06.02-13.54.14:316][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar] ([1] browsable assets)...
+[2025.06.02-13.54.14:316][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar]
+[2025.06.02-13.54.14:317][ 87]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar
+[2025.06.02-13.54.14:317][ 87]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Old_calendarC41A58D14EFEAD5CF37485BCA6BFD558.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar.uasset'
+[2025.06.02-13.54.14:318][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.864 ms (total: 1.28 sec)
+[2025.06.02-13.54.14:430][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.06.02-13.54.14:441][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.06.02-13.54.14:452][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.06.02-13.54.14:482][ 87]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.06.02-13.54.14:482][ 87]LogContentValidation: Display: Starting to validate 6 assets
+[2025.06.02-13.54.14:482][ 87]LogContentValidation: Enabled validators:
+[2025.06.02-13.54.14:482][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.02-13.54.14:482][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.02-13.54.14:482][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.02-13.54.14:482][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.02-13.54.14:482][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.02-13.54.14:482][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.02-13.54.14:482][ 87]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/torn_paper Validando ativo
+[2025.06.02-13.54.14:482][ 87]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020 Validando ativo
+[2025.06.02-13.54.14:482][ 87]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1 Validando ativo
+[2025.06.02-13.54.14:482][ 87]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages Validando ativo
+[2025.06.02-13.54.14:482][ 87]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001 Validando ativo
+[2025.06.02-13.54.14:482][ 87]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar Validando ativo
+[2025.06.02-13.54.19:484][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.02-13.54.19:484][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001] ([1] browsable assets)...
+[2025.06.02-13.54.19:484][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001]
+[2025.06.02-13.54.19:486][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001
+[2025.06.02-13.54.19:486][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/old_rust_00145165DC44160E35253C766B5C95AB4F9.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001.uasset'
+[2025.06.02-13.54.19:487][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020] ([1] browsable assets)...
+[2025.06.02-13.54.19:487][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020]
+[2025.06.02-13.54.19:488][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020
+[2025.06.02-13.54.19:489][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Material_020F980D7B64C7EC2E99D2B6390A18AD0DA.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020.uasset'
+[2025.06.02-13.54.19:489][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1] ([1] browsable assets)...
+[2025.06.02-13.54.19:489][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1]
+[2025.06.02-13.54.19:491][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1
+[2025.06.02-13.54.19:492][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/grunge_metal18DB650874487F7A88C3FB7A4C1AF6706.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1.uasset'
+[2025.06.02-13.54.19:493][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages] ([1] browsable assets)...
+[2025.06.02-13.54.19:493][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages]
+[2025.06.02-13.54.19:495][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages
+[2025.06.02-13.54.19:495][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Old_calendar_pages287C57BE4083CDC66597BDB45D0B9822.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages.uasset'
+[2025.06.02-13.54.19:496][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar] ([1] browsable assets)...
+[2025.06.02-13.54.19:496][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar]
+[2025.06.02-13.54.19:498][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar
+[2025.06.02-13.54.19:498][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/Old_calendarAE28A8474C2445126FD71583808BE463.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar.uasset'
+[2025.06.02-13.54.19:499][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/2011-06-11-09557] ([1] browsable assets)...
+[2025.06.02-13.54.19:499][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/2011-06-11-09557]
+[2025.06.02-13.54.19:656][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/2011-06-11-09557
+[2025.06.02-13.54.19:656][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/2011-06-11-09557DE23AD044844E229E1D28FB9863F85A2.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Texturas/2011-06-11-09557.uasset'
+[2025.06.02-13.54.19:657][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/cuttingboard] ([1] browsable assets)...
+[2025.06.02-13.54.19:657][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/cuttingboard]
+[2025.06.02-13.54.19:678][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/cuttingboard
+[2025.06.02-13.54.19:678][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/cuttingboard975DDD344602F27B60EAB69FA79297E5.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Texturas/cuttingboard.uasset'
+[2025.06.02-13.54.19:679][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/grunge_metal] ([1] browsable assets)...
+[2025.06.02-13.54.19:679][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/grunge_metal]
+[2025.06.02-13.54.19:713][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/grunge_metal
+[2025.06.02-13.54.19:713][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/grunge_metal278B674A4850E2A5DEE423A69AEAF7F6.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Texturas/grunge_metal.uasset'
+[2025.06.02-13.54.19:715][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/calendar_page_2] ([1] browsable assets)...
+[2025.06.02-13.54.19:715][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/calendar_page_2]
+[2025.06.02-13.54.19:783][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/calendar_page_2
+[2025.06.02-13.54.19:783][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/calendar_page_29744207D44012E76B5A7048A7B959368.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Texturas/calendar_page_2.uasset'
+[2025.06.02-13.54.19:784][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/JANUARY] ([1] browsable assets)...
+[2025.06.02-13.54.19:784][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/JANUARY]
+[2025.06.02-13.54.19:816][591]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/JANUARY
+[2025.06.02-13.54.19:817][591]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/JANUARY69743FF4429DDE07F7EA70AC7074E5C3.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/Calendario_Texturas/JANUARY.uasset'
+[2025.06.02-13.54.19:818][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 334.689 ms (total: 1.62 sec)
+[2025.06.02-13.54.19:917][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.06.02-13.54.19:928][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.06.02-13.54.19:939][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.06.02-13.54.19:968][591]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.06.02-13.54.19:968][591]LogContentValidation: Display: Starting to validate 10 assets
+[2025.06.02-13.54.19:968][591]LogContentValidation: Enabled validators:
+[2025.06.02-13.54.19:968][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.02-13.54.19:968][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.02-13.54.19:968][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.02-13.54.19:968][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.02-13.54.19:968][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.02-13.54.19:968][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/old_rust_001 Validando ativo
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Material_020 Validando ativo
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/grunge_metal1 Validando ativo
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar_pages Validando ativo
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Material/Old_calendar Validando ativo
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/2011-06-11-09557 Validando ativo
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/cuttingboard Validando ativo
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/grunge_metal Validando ativo
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/calendar_page_2 Validando ativo
+[2025.06.02-13.54.19:968][591]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/Calendario_Texturas/JANUARY Validando ativo
+[2025.06.02-13.54.24:573][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModelosProprios/Objetos/Calendario/calendario.calendario
+[2025.06.02-13.54.24:573][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModelosProprios/Objetos/Calendario/calendario.calendario
+[2025.06.02-13.54.24:573][109]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModelosProprios/Objetos/Calendario/calendario.calendario as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_41
+[2025.06.02-13.54.26:128][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.06.02-13.54.26:130][263]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.06.02-13.54.26:135][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModelosProprios/Objetos/Calendario/calendario.calendario
+[2025.06.02-13.54.26:135][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ModelosProprios/Objetos/Calendario/calendario.calendario
+[2025.06.02-13.54.26:136][263]LogActorFactory: Actor Factory spawned StaticMesh /Game/ModelosProprios/Objetos/Calendario/calendario.calendario as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_42
+[2025.06.02-13.54.38:555][664]Cmd: TRANSACTION UNDO
+[2025.06.02-13.54.38:555][664]LogEditorTransaction: Undo Definir Escala
+[2025.06.02-13.54.47:081][598]Cmd: TRANSACTION UNDO
+[2025.06.02-13.54.47:081][598]LogEditorTransaction: Undo Definir Escala
+[2025.06.02-13.54.47:855][635]Cmd: TRANSACTION UNDO
+[2025.06.02-13.54.47:855][635]LogEditorTransaction: Undo Definir Escala
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: ================================================
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Total job queries 284, among them cache hits 84 (29.58%), DDC hits 184 (64.79%), Duplicates 2 (0.70%)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Tracking 198 distinct input hashes that result in 148 distinct outputs (74.75%)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: RAM used: 126.74 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Shaders Compiled: 14
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Average time worker was idle: 879.44 s
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Job execution time: average 3.57 s, max 6.07 s
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Job life time (pending + execution): average 3.64 s, max 6.16
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Shader code size: average 18.327 KiB, min 3.051 KiB, max 29.188 KiB
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.12 s
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Average processing rate: 0.56 jobs/sec
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Total thread time: 32.415 s
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Total thread preprocess time: 5.12 s
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Percentage time preprocessing: 15.79%
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Effective parallelization: 1.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 3.33 sec, max 3.62 sec, min 2.64 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 3.33 sec, max 3.33 sec, min 3.32 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 3.14 sec, max 3.35 sec, min 2.84 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 41.13% of total time (compiled    4 times, average 3.33 sec, max 3.62 sec, min 2.64 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 29.03% of total time (compiled    3 times, average 3.14 sec, max 3.35 sec, min 2.84 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.52% of total time (compiled    2 times, average 3.33 sec, max 3.33 sec, min 3.32 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 1.67% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display:                                                FAnisotropyPS - 1.67% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: === Material stats ===
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Materials Translated:    206
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Material Translation Only: 0.11 s (57%)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: Material Cache Hits: 69 (33%)
+[2025.06.02-13.56.07:656][639]LogShaderCompilers: Display: ================================================
+[2025.06.02-13.56.37:251][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.06.02-13.56.37:257][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.02-13.56.37:359][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.06.02-13.56.37:388][799]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.06.02-13.56.37:388][799]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/VRTemplateMapD59004764C2120E75B2BFA92E571F288.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.06.02-13.56.37:406][799]LogFileHelpers: Todos os arquivos já estão salvos.
+[2025.06.02-13.56.37:406][799]LogFileHelpers: Saving map 'VRTemplateMap' took 0.093
+[2025.06.02-13.56.37:407][799]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ModelosProprios/Objetos/Calendario/calendario] ([1] browsable assets)...
+[2025.06.02-13.56.37:407][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Calendario/calendario]
+[2025.06.02-13.56.37:415][799]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Calendario/calendario
+[2025.06.02-13.56.37:415][799]LogSavePackage: Moving '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Saved/calendarioED25333F48551DD376BE3184C517A240.tmp' to '../../../../../../Users/Pichau/Documents/GitHub/MotorJamVR/Content/ModelosProprios/Objetos/Calendario/calendario.uasset'
+[2025.06.02-13.56.37:427][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.169 ms (total: 1.79 sec)
+[2025.06.02-13.56.37:476][799]LogContentValidation: Display: Starting to validate 2 assets
+[2025.06.02-13.56.37:476][799]LogContentValidation: Enabled validators:
+[2025.06.02-13.56.37:476][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.02-13.56.37:476][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.02-13.56.37:476][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.02-13.56.37:476][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.02-13.56.37:476][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.02-13.56.37:476][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.02-13.56.37:476][799]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validando ativo
+[2025.06.02-13.56.37:476][799]AssetCheck: /Game/ModelosProprios/Objetos/Calendario/calendario Validando ativo
+[2025.06.02-13.56.38:673][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.06.02-13.56.38:760][932]LogStall: Shutdown...
+[2025.06.02-13.56.38:760][932]LogStall: Shutdown complete.
+[2025.06.02-13.56.38:834][932]LogSlate: Window 'MotorJam — Unreal Editor' being destroyed
+[2025.06.02-13.56.38:932][932]Cmd: QUIT_EDITOR
+[2025.06.02-13.56.38:932][933]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.02-13.56.38:946][933]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.02-13.56.38:946][933]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.02-13.56.38:946][933]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.02-13.56.38:953][933]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.38:953][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.38:985][933]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.02-13.56.38:990][933]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.02-13.56.39:003][933]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.39:003][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.39:004][933]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.39:004][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.39:004][933]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.39:004][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.39:004][933]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.39:004][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.39:004][933]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.39:004][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.39:004][933]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.39:004][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.39:005][933]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.39:005][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.39:005][933]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.39:005][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.39:006][933]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.06.02-13.56.39:006][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.02-13.56.39:013][933]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.02-13.56.39:024][933]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.06.02-13.56.39:024][933]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.06.02-13.56.39:024][933]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.06.02-13.56.39:029][933]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.02-13.56.39:029][933]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.02-13.56.39:030][933]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2025.06.02-13.56.39:030][933]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.02-13.56.39:033][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.02-13.56.39:036][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.02-13.56.39:045][933]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.02-13.56.39:045][933]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.02-13.56.39:045][933]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2025.06.02-13.56.39:049][933]LogExit: Preparing to exit.
+[2025.06.02-13.56.39:100][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.06.02-13.56.39:919][933]LogEditorDataStorage: Deinitializing
+[2025.06.02-13.56.40:044][933]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.02-13.56.40:095][933]LogExit: Editor shut down
+[2025.06.02-13.56.40:101][933]LogExit: Transaction tracking system shut down
+[2025.06.02-13.56.40:503][933]LogExit: Object subsystem successfully closed.
+[2025.06.02-13.56.40:602][933]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.02-13.56.41:191][933]LogMemoryProfiler: Shutdown
+[2025.06.02-13.56.41:192][933]LogNetworkingProfiler: Shutdown
+[2025.06.02-13.56.41:192][933]LoadingProfiler: Shutdown
+[2025.06.02-13.56.41:193][933]LogTimingProfiler: Shutdown
+[2025.06.02-13.56.41:662][933]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.06.02-13.56.41:670][933]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.06.02-13.56.41:670][933]LogNFORDenoise: NFORDenoise function shutting down
+[2025.06.02-13.56.41:673][933]RenderDocPlugin: plugin has been unloaded.
+[2025.06.02-13.56.41:674][933]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.02-13.56.41:692][933]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.02-13.56.41:692][933]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94889359-4689-299E-BF6E-7E909D1D0716%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=98b68b1a4317c7cdad119daf8f88cc04%7Cd19542bfa7d44c8e88c36dd1470e1097%7Ca872e974-8ba5-4dee-949b-f51298ac3fc7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.02-13.56.42:267][933]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.02-13.56.42:282][933]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.06.02-13.56.42:282][933]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.06.02-13.56.42:283][933]LogPakFile: Destroying PakPlatformFile
+[2025.06.02-13.56.42:369][933]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.02-13.56.42:402][933]LogExit: Exiting.
+[2025.06.02-13.56.42:429][933]Log file closed, 06/02/25 10:56:42
