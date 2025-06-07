@@ -3703,3 +3703,578 @@ Sampler Limit: 32
 [2025.06.07-05.17.22:164][716]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.06.07-05.17.22:164][716]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.06.07-05.17.22:164][716]AssetCheck: /Game/MedievalDungeon/Maps/sala_principal Validating asset
+[2025.06.07-05.18.07:856][125]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.07-05.18.23:276][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.06.07-05.18.23:288][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.07-05.18.23:834][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_StoneWall_A] ([1] browsable assets)...
+[2025.06.07-05.18.23:840][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_StoneWall_A.T_StoneWall_A]
+[2025.06.07-05.18.23:840][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_StoneWall_A]
+[2025.06.07-05.18.23:840][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_StoneWall_A" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_StoneWall_A.uasset" SILENT=true
+[2025.06.07-05.18.24:083][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_StoneWall_A
+[2025.06.07-05.18.24:084][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_StoneWall_A48A6FF05455DE93EC4CF0DA8B0CB3308.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_StoneWall_A.uasset'
+[2025.06.07-05.18.24:089][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_StoneWall_C] ([1] browsable assets)...
+[2025.06.07-05.18.24:090][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_StoneWall_C.T_StoneWall_C]
+[2025.06.07-05.18.24:090][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_StoneWall_C]
+[2025.06.07-05.18.24:091][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_StoneWall_C" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_StoneWall_C.uasset" SILENT=true
+[2025.06.07-05.18.24:322][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_StoneWall_C
+[2025.06.07-05.18.24:323][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_StoneWall_C32BBE4B44CD0C4CDE87F0F9CEE0CCE73.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_StoneWall_C.uasset'
+[2025.06.07-05.18.24:324][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_StoneWall_H] ([1] browsable assets)...
+[2025.06.07-05.18.24:327][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_StoneWall_H.T_StoneWall_H]
+[2025.06.07-05.18.24:327][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_StoneWall_H]
+[2025.06.07-05.18.24:327][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_StoneWall_H" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_StoneWall_H.uasset" SILENT=true
+[2025.06.07-05.18.24:513][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_StoneWall_H
+[2025.06.07-05.18.24:513][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_StoneWall_HFFEB2E11409E3BF089F349B5B8D593A8.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_StoneWall_H.uasset'
+[2025.06.07-05.18.24:514][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_StoneWall_N] ([1] browsable assets)...
+[2025.06.07-05.18.24:517][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_StoneWall_N.T_StoneWall_N]
+[2025.06.07-05.18.24:517][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_StoneWall_N]
+[2025.06.07-05.18.24:517][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_StoneWall_N" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_StoneWall_N.uasset" SILENT=true
+[2025.06.07-05.18.24:773][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_StoneWall_N
+[2025.06.07-05.18.24:774][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_StoneWall_N07980FC341DB1DD842C0559B9E723096.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_StoneWall_N.uasset'
+[2025.06.07-05.18.24:776][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Albedo] ([1] browsable assets)...
+[2025.06.07-05.18.24:778][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Albedo.T_Edge_Stones_And_Straight_Column_Texturing_Albedo]
+[2025.06.07-05.18.24:778][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Albedo]
+[2025.06.07-05.18.25:213][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Albedo
+[2025.06.07-05.18.25:213][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Edge_Stones_And_Straight_ColumB023D8EF4B5016F538EEE581A5D7E13E.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Albedo.uasset'
+[2025.06.07-05.18.25:215][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Compact] ([1] browsable assets)...
+[2025.06.07-05.18.25:218][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Compact.T_Edge_Stones_And_Straight_Column_Texturing_Compact]
+[2025.06.07-05.18.25:218][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Compact]
+[2025.06.07-05.18.25:724][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Compact
+[2025.06.07-05.18.25:724][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Edge_Stones_And_Straight_Colum05A1A3334A3117BBD7688BACC874D3C8.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Compact.uasset'
+[2025.06.07-05.18.25:728][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal] ([1] browsable assets)...
+[2025.06.07-05.18.25:730][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal.T_Edge_Stones_And_Straight_Column_Texturing_Normal]
+[2025.06.07-05.18.25:730][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal]
+[2025.06.07-05.18.26:671][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal
+[2025.06.07-05.18.26:671][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Edge_Stones_And_Straight_Colum22FEC4B1476F7FBF045423B711FF2C57.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal.uasset'
+[2025.06.07-05.18.26:674][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Candle_Holder_A] ([1] browsable assets)...
+[2025.06.07-05.18.26:677][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Candle_Holder_A.T_Candle_Holder_A]
+[2025.06.07-05.18.26:677][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Candle_Holder_A]
+[2025.06.07-05.18.26:850][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Candle_Holder_A
+[2025.06.07-05.18.26:851][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Candle_Holder_AF181A184478421D6FA5CD6B5632CE535.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Candle_Holder_A.uasset'
+[2025.06.07-05.18.26:853][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Candle_Holder_C] ([1] browsable assets)...
+[2025.06.07-05.18.26:856][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Candle_Holder_C.T_Candle_Holder_C]
+[2025.06.07-05.18.26:856][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Candle_Holder_C]
+[2025.06.07-05.18.27:078][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Candle_Holder_C
+[2025.06.07-05.18.27:078][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Candle_Holder_CA44C8D9A4674AC2924C5D5897A9289BA.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Candle_Holder_C.uasset'
+[2025.06.07-05.18.27:080][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Gargoyle_A] ([1] browsable assets)...
+[2025.06.07-05.18.27:082][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Gargoyle_A.T_Gargoyle_A]
+[2025.06.07-05.18.27:082][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Gargoyle_A]
+[2025.06.07-05.18.27:082][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Gargoyle_A" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Gargoyle_A.uasset" SILENT=true
+[2025.06.07-05.18.27:263][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Gargoyle_A
+[2025.06.07-05.18.27:264][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Gargoyle_A01E97B9A4F09E9EBBE4C9FB865378765.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Gargoyle_A.uasset'
+[2025.06.07-05.18.27:264][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Gargoyle_C] ([1] browsable assets)...
+[2025.06.07-05.18.27:268][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Gargoyle_C.T_Gargoyle_C]
+[2025.06.07-05.18.27:268][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Gargoyle_C]
+[2025.06.07-05.18.27:268][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Gargoyle_C" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Gargoyle_C.uasset" SILENT=true
+[2025.06.07-05.18.27:477][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Gargoyle_C
+[2025.06.07-05.18.27:477][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Gargoyle_C66F9E0F24421DA5F8F17CA81BDEC412B.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Gargoyle_C.uasset'
+[2025.06.07-05.18.27:478][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Gargoyle_N] ([1] browsable assets)...
+[2025.06.07-05.18.27:480][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Gargoyle_N.T_Gargoyle_N]
+[2025.06.07-05.18.27:480][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Gargoyle_N]
+[2025.06.07-05.18.27:480][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Gargoyle_N" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Gargoyle_N.uasset" SILENT=true
+[2025.06.07-05.18.27:773][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Gargoyle_N
+[2025.06.07-05.18.27:773][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Gargoyle_N50670B9343B015339D73C182145D3E04.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Gargoyle_N.uasset'
+[2025.06.07-05.18.27:775][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Gargoyle_Stand_A] ([1] browsable assets)...
+[2025.06.07-05.18.27:778][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_A.T_Gargoyle_Stand_A]
+[2025.06.07-05.18.27:778][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Gargoyle_Stand_A]
+[2025.06.07-05.18.27:955][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_A
+[2025.06.07-05.18.27:955][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Gargoyle_Stand_AA93B6C5B48D1613A0206AF95D81C21DC.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Gargoyle_Stand_A.uasset'
+[2025.06.07-05.18.27:956][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Gargoyle_Stand_C] ([1] browsable assets)...
+[2025.06.07-05.18.27:960][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_C.T_Gargoyle_Stand_C]
+[2025.06.07-05.18.27:960][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Gargoyle_Stand_C]
+[2025.06.07-05.18.28:130][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_C
+[2025.06.07-05.18.28:130][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Gargoyle_Stand_CD77460EB42E46057882AFDAC4A47FBC8.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Gargoyle_Stand_C.uasset'
+[2025.06.07-05.18.28:132][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Gargoyle_Stand_N] ([1] browsable assets)...
+[2025.06.07-05.18.28:134][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_N.T_Gargoyle_Stand_N]
+[2025.06.07-05.18.28:134][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Gargoyle_Stand_N]
+[2025.06.07-05.18.28:372][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_N
+[2025.06.07-05.18.28:373][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Gargoyle_Stand_NAF74F51F45647105083666BDC2688E56.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Gargoyle_Stand_N.uasset'
+[2025.06.07-05.18.28:374][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_A] ([1] browsable assets)...
+[2025.06.07-05.18.28:376][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_A.T_Statue_Hooded_Metal_A]
+[2025.06.07-05.18.28:376][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_A]
+[2025.06.07-05.18.28:546][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_A
+[2025.06.07-05.18.28:547][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Statue_Hooded_Metal_ABD968E35426E171D76D009BC880678F8.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Statue_Hooded_Metal_A.uasset'
+[2025.06.07-05.18.28:549][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_C] ([1] browsable assets)...
+[2025.06.07-05.18.28:552][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_C.T_Statue_Hooded_Metal_C]
+[2025.06.07-05.18.28:552][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_C]
+[2025.06.07-05.18.28:757][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_C
+[2025.06.07-05.18.28:757][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Statue_Hooded_Metal_CD71E903C48DDE4626E13199E6555B261.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Statue_Hooded_Metal_C.uasset'
+[2025.06.07-05.18.28:759][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_DoorHardware_Albedo] ([1] browsable assets)...
+[2025.06.07-05.18.28:761][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_DoorHardware_Albedo.T_DoorHardware_Albedo]
+[2025.06.07-05.18.28:761][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_DoorHardware_Albedo]
+[2025.06.07-05.18.28:965][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_DoorHardware_Albedo
+[2025.06.07-05.18.28:966][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_DoorHardware_AlbedoB0CCF8BC43F4959080D702889CE69546.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_DoorHardware_Albedo.uasset'
+[2025.06.07-05.18.28:967][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_DoorHardware_C] ([1] browsable assets)...
+[2025.06.07-05.18.28:970][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_DoorHardware_C.T_DoorHardware_C]
+[2025.06.07-05.18.28:970][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_DoorHardware_C]
+[2025.06.07-05.18.29:217][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_DoorHardware_C
+[2025.06.07-05.18.29:218][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_DoorHardware_C64701DB14BFA29F23546B6903F05D214.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_DoorHardware_C.uasset'
+[2025.06.07-05.18.29:218][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_DoorHardware_N] ([1] browsable assets)...
+[2025.06.07-05.18.29:221][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_DoorHardware_N.T_DoorHardware_N]
+[2025.06.07-05.18.29:221][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_DoorHardware_N]
+[2025.06.07-05.18.29:466][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_DoorHardware_N
+[2025.06.07-05.18.29:468][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_DoorHardware_NCFC17B1B4EE104D6272293B0B38A807F.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_DoorHardware_N.uasset'
+[2025.06.07-05.18.29:469][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Albedo] ([1] browsable assets)...
+[2025.06.07-05.18.29:472][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Albedo.T_DoorWay_Large_Door_Right_Albedo]
+[2025.06.07-05.18.29:472][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Albedo]
+[2025.06.07-05.18.30:282][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Albedo
+[2025.06.07-05.18.30:283][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_DoorWay_Large_Door_Right_AlbedECD331C24BBF6FDE311D809C1CA78152.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Albedo.uasset'
+[2025.06.07-05.18.30:287][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Normal] ([1] browsable assets)...
+[2025.06.07-05.18.30:289][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Normal.T_DoorWay_Large_Door_Right_Normal]
+[2025.06.07-05.18.30:289][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Normal]
+[2025.06.07-05.18.31:420][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Normal
+[2025.06.07-05.18.31:421][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_DoorWay_Large_Door_Right_NormaDF9120F54F6F5681934E848AB653976A.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Normal.uasset'
+[2025.06.07-05.18.31:425][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_DoorWay_Large_DoorRight_Compact] ([1] browsable assets)...
+[2025.06.07-05.18.31:428][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_DoorWay_Large_DoorRight_Compact.T_DoorWay_Large_DoorRight_Compact]
+[2025.06.07-05.18.31:428][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_DoorWay_Large_DoorRight_Compact]
+[2025.06.07-05.18.32:252][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_DoorWay_Large_DoorRight_Compact
+[2025.06.07-05.18.32:253][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_DoorWay_Large_DoorRight_Compac2A37699148A6431B046A61A21A62E2D0.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_DoorWay_Large_DoorRight_Compact.uasset'
+[2025.06.07-05.18.32:257][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Large_Window_Half_A] ([1] browsable assets)...
+[2025.06.07-05.18.32:259][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Large_Window_Half_A.T_Large_Window_Half_A]
+[2025.06.07-05.18.32:259][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Large_Window_Half_A]
+[2025.06.07-05.18.32:974][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Large_Window_Half_A
+[2025.06.07-05.18.32:974][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Large_Window_Half_A55C79C5A4E87A138C0696797AEA5889A.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Large_Window_Half_A.uasset'
+[2025.06.07-05.18.32:978][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Large_Window_Half_C] ([1] browsable assets)...
+[2025.06.07-05.18.32:980][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Large_Window_Half_C.T_Large_Window_Half_C]
+[2025.06.07-05.18.32:980][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Large_Window_Half_C]
+[2025.06.07-05.18.33:737][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Large_Window_Half_C
+[2025.06.07-05.18.33:738][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Large_Window_Half_C934296454B16175CE175A6B8EFD21961.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Large_Window_Half_C.uasset'
+[2025.06.07-05.18.33:740][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Large_Window_Half_N] ([1] browsable assets)...
+[2025.06.07-05.18.33:742][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Large_Window_Half_N.T_Large_Window_Half_N]
+[2025.06.07-05.18.33:742][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Large_Window_Half_N]
+[2025.06.07-05.18.34:697][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Large_Window_Half_N
+[2025.06.07-05.18.34:698][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Large_Window_Half_ND5A288B1444BA531055243925981B4F3.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Large_Window_Half_N.uasset'
+[2025.06.07-05.18.34:700][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_A] ([1] browsable assets)...
+[2025.06.07-05.18.34:702][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_A.T_Crypt_Wall_Decorative_D_A]
+[2025.06.07-05.18.34:702][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_A]
+[2025.06.07-05.18.34:904][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_A
+[2025.06.07-05.18.34:904][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Crypt_Wall_Decorative_D_A5EF4061046D17D2EA9E3B0BF805655AF.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_A.uasset'
+[2025.06.07-05.18.34:906][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_C] ([1] browsable assets)...
+[2025.06.07-05.18.34:908][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_C.T_Crypt_Wall_Decorative_D_C]
+[2025.06.07-05.18.34:908][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_C]
+[2025.06.07-05.18.35:113][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_C
+[2025.06.07-05.18.35:114][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Crypt_Wall_Decorative_D_C2B05DD2D4075317752957C8E2CEF01A4.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_C.uasset'
+[2025.06.07-05.18.35:116][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_N] ([1] browsable assets)...
+[2025.06.07-05.18.35:118][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_N.T_Crypt_Wall_Decorative_D_N]
+[2025.06.07-05.18.35:118][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_N]
+[2025.06.07-05.18.35:378][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_N
+[2025.06.07-05.18.35:378][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Crypt_Wall_Decorative_D_N694112FB4F6231BE4EFE9A871D7786C4.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_N.uasset'
+[2025.06.07-05.18.35:379][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_A] ([1] browsable assets)...
+[2025.06.07-05.18.35:381][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_A.T_Mausoleum_Part_A_A]
+[2025.06.07-05.18.35:381][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_A]
+[2025.06.07-05.18.35:631][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_A
+[2025.06.07-05.18.35:632][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Mausoleum_Part_A_A6ABC1C1644E4E5C211A49EA0C7D43F2A.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Mausoleum_Part_A_A.uasset'
+[2025.06.07-05.18.35:633][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_C] ([1] browsable assets)...
+[2025.06.07-05.18.35:635][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_C.T_Mausoleum_Part_A_C]
+[2025.06.07-05.18.35:635][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_C]
+[2025.06.07-05.18.35:872][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_C
+[2025.06.07-05.18.35:873][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Mausoleum_Part_A_C317963D041836FDB397B10AA566BFA22.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Mausoleum_Part_A_C.uasset'
+[2025.06.07-05.18.35:874][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Tiling_Plaster_A] ([1] browsable assets)...
+[2025.06.07-05.18.35:877][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Tiling_Plaster_A.T_Tiling_Plaster_A]
+[2025.06.07-05.18.35:877][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Tiling_Plaster_A]
+[2025.06.07-05.18.36:098][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_A
+[2025.06.07-05.18.36:098][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Tiling_Plaster_A92DDAEE947A2B0FE500BFAB774DB9173.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Tiling_Plaster_A.uasset'
+[2025.06.07-05.18.36:100][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Tiling_Plaster_C] ([1] browsable assets)...
+[2025.06.07-05.18.36:102][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Tiling_Plaster_C.T_Tiling_Plaster_C]
+[2025.06.07-05.18.36:102][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Tiling_Plaster_C]
+[2025.06.07-05.18.36:273][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_C
+[2025.06.07-05.18.36:273][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Tiling_Plaster_CC36F18CE4435C9606496CE8CE8430C44.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Tiling_Plaster_C.uasset'
+[2025.06.07-05.18.36:274][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Tiling_Plaster_N] ([1] browsable assets)...
+[2025.06.07-05.18.36:277][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Tiling_Plaster_N.T_Tiling_Plaster_N]
+[2025.06.07-05.18.36:277][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Tiling_Plaster_N]
+[2025.06.07-05.18.36:565][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_N
+[2025.06.07-05.18.36:565][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Tiling_Plaster_N1D77C80E44B1F080EB05C9B9DA12C5E6.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Tiling_Plaster_N.uasset'
+[2025.06.07-05.18.36:566][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_C] ([1] browsable assets)...
+[2025.06.07-05.18.36:570][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_C.T_Mausoleum_Ceiling_C]
+[2025.06.07-05.18.36:570][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_C]
+[2025.06.07-05.18.37:393][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_C
+[2025.06.07-05.18.37:393][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Mausoleum_Ceiling_C63B07EA1402B6F9E08A004B6B553EA34.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Mausoleum_Ceiling_C.uasset'
+[2025.06.07-05.18.37:394][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Cell_Door_Front_A] ([1] browsable assets)...
+[2025.06.07-05.18.37:396][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Cell_Door_Front_A.T_Cell_Door_Front_A]
+[2025.06.07-05.18.37:396][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Cell_Door_Front_A]
+[2025.06.07-05.18.38:173][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_A
+[2025.06.07-05.18.38:174][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Cell_Door_Front_A85DFCF5A468E9A73D9F313973CF023F1.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Cell_Door_Front_A.uasset'
+[2025.06.07-05.18.38:177][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Cell_Door_Front_C] ([1] browsable assets)...
+[2025.06.07-05.18.38:179][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Cell_Door_Front_C.T_Cell_Door_Front_C]
+[2025.06.07-05.18.38:179][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Cell_Door_Front_C]
+[2025.06.07-05.18.39:081][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_C
+[2025.06.07-05.18.39:082][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Cell_Door_Front_C1357084B40A453FEAC9DF9B29AFD7D7B.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Cell_Door_Front_C.uasset'
+[2025.06.07-05.18.39:084][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Cell_Door_Front_N] ([1] browsable assets)...
+[2025.06.07-05.18.39:086][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Cell_Door_Front_N.T_Cell_Door_Front_N]
+[2025.06.07-05.18.39:086][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Cell_Door_Front_N]
+[2025.06.07-05.18.40:218][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_N
+[2025.06.07-05.18.40:218][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Cell_Door_Front_NFFBB258D49462AB30ADDBE9AD4CE6EE3.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Cell_Door_Front_N.uasset'
+[2025.06.07-05.18.40:218][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Cell_Side_A] ([1] browsable assets)...
+[2025.06.07-05.18.40:222][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Cell_Side_A.T_Cell_Side_A]
+[2025.06.07-05.18.40:222][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Cell_Side_A]
+[2025.06.07-05.18.40:222][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Cell_Side_A" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Cell_Side_A.uasset" SILENT=true
+[2025.06.07-05.18.40:388][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Cell_Side_A
+[2025.06.07-05.18.40:390][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Cell_Side_AE0132874437F8771321C3488373A14F5.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Cell_Side_A.uasset'
+[2025.06.07-05.18.40:390][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Cell_Side_C] ([1] browsable assets)...
+[2025.06.07-05.18.40:392][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Cell_Side_C.T_Cell_Side_C]
+[2025.06.07-05.18.40:393][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Cell_Side_C]
+[2025.06.07-05.18.40:393][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Cell_Side_C" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Cell_Side_C.uasset" SILENT=true
+[2025.06.07-05.18.40:600][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Cell_Side_C
+[2025.06.07-05.18.40:600][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Cell_Side_C67296C0A44E8DE6E269CEA8B1BD73B77.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Cell_Side_C.uasset'
+[2025.06.07-05.18.40:601][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Cell_Side_N] ([1] browsable assets)...
+[2025.06.07-05.18.40:604][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Cell_Side_N.T_Cell_Side_N]
+[2025.06.07-05.18.40:604][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Cell_Side_N]
+[2025.06.07-05.18.40:604][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Cell_Side_N" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Cell_Side_N.uasset" SILENT=true
+[2025.06.07-05.18.40:893][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Cell_Side_N
+[2025.06.07-05.18.40:893][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Cell_Side_N1D876B614C08D4938938CF8F5408C626.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Cell_Side_N.uasset'
+[2025.06.07-05.18.40:894][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Half_Arch_A] ([1] browsable assets)...
+[2025.06.07-05.18.40:897][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Half_Arch_A.T_Half_Arch_A]
+[2025.06.07-05.18.40:897][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Half_Arch_A]
+[2025.06.07-05.18.40:897][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Half_Arch_A" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Half_Arch_A.uasset" SILENT=true
+[2025.06.07-05.18.41:500][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Half_Arch_A
+[2025.06.07-05.18.41:501][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Half_Arch_AF655EF38424EA913E21424A00923A0DD.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Half_Arch_A.uasset'
+[2025.06.07-05.18.41:501][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Half_Arch_C] ([1] browsable assets)...
+[2025.06.07-05.18.41:503][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Half_Arch_C.T_Half_Arch_C]
+[2025.06.07-05.18.41:503][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Half_Arch_C]
+[2025.06.07-05.18.41:503][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Half_Arch_C" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Half_Arch_C.uasset" SILENT=true
+[2025.06.07-05.18.42:193][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Half_Arch_C
+[2025.06.07-05.18.42:193][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Half_Arch_C4D1A149E48F3EE1CABB80791F5C6F8F2.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Half_Arch_C.uasset'
+[2025.06.07-05.18.42:194][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Half_Arch_N] ([1] browsable assets)...
+[2025.06.07-05.18.42:197][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Half_Arch_N.T_Half_Arch_N]
+[2025.06.07-05.18.42:197][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Half_Arch_N]
+[2025.06.07-05.18.42:197][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Half_Arch_N" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Half_Arch_N.uasset" SILENT=true
+[2025.06.07-05.18.43:401][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Half_Arch_N
+[2025.06.07-05.18.43:401][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Half_Arch_NE7BCE81047FF584FA8A8D085E5390B6D.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Half_Arch_N.uasset'
+[2025.06.07-05.18.43:402][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Stone_Altar_A] ([1] browsable assets)...
+[2025.06.07-05.18.43:404][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Stone_Altar_A.T_Stone_Altar_A]
+[2025.06.07-05.18.43:404][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Stone_Altar_A]
+[2025.06.07-05.18.43:594][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Stone_Altar_A
+[2025.06.07-05.18.43:594][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Stone_Altar_A411CB95D4598BEBD86FEAFB6EA43ED1B.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Stone_Altar_A.uasset'
+[2025.06.07-05.18.43:596][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Stone_Altar_C] ([1] browsable assets)...
+[2025.06.07-05.18.43:598][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Stone_Altar_C.T_Stone_Altar_C]
+[2025.06.07-05.18.43:598][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Stone_Altar_C]
+[2025.06.07-05.18.43:747][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Stone_Altar_C
+[2025.06.07-05.18.43:748][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Stone_Altar_C406D4027472F3B8F3ECA05A9BF612246.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Stone_Altar_C.uasset'
+[2025.06.07-05.18.43:748][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Stone_Altar_N] ([1] browsable assets)...
+[2025.06.07-05.18.43:751][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Stone_Altar_N.T_Stone_Altar_N]
+[2025.06.07-05.18.43:751][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Stone_Altar_N]
+[2025.06.07-05.18.44:039][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Stone_Altar_N
+[2025.06.07-05.18.44:039][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Stone_Altar_N5173DB21446BAAF3C0FAE6B54E266803.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Stone_Altar_N.uasset'
+[2025.06.07-05.18.44:040][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Candles_C] ([1] browsable assets)...
+[2025.06.07-05.18.44:042][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Candles_C.T_Candles_C]
+[2025.06.07-05.18.44:042][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Candles_C]
+[2025.06.07-05.18.44:042][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Candles_C" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Candles_C.uasset" SILENT=true
+[2025.06.07-05.18.44:132][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Candles_C
+[2025.06.07-05.18.44:133][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Candles_CFC0A326D487C34C42E87108424CA6B11.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Candles_C.uasset'
+[2025.06.07-05.18.44:134][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Candles_N] ([1] browsable assets)...
+[2025.06.07-05.18.44:136][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Candles_N.T_Candles_N]
+[2025.06.07-05.18.44:136][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Candles_N]
+[2025.06.07-05.18.44:136][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Candles_N" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Candles_N.uasset" SILENT=true
+[2025.06.07-05.18.44:285][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Candles_N
+[2025.06.07-05.18.44:285][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Candles_NC55BD34640AC49570C60B5B00BCE315C.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Candles_N.uasset'
+[2025.06.07-05.18.44:286][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Stone_Coffin_A] ([1] browsable assets)...
+[2025.06.07-05.18.44:289][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Stone_Coffin_A.T_Stone_Coffin_A]
+[2025.06.07-05.18.44:289][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Stone_Coffin_A]
+[2025.06.07-05.18.44:453][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Stone_Coffin_A
+[2025.06.07-05.18.44:453][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Stone_Coffin_A8FD548554163946E8FDB2ABC469BAFAD.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Stone_Coffin_A.uasset'
+[2025.06.07-05.18.44:454][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Stone_Coffin_C] ([1] browsable assets)...
+[2025.06.07-05.18.44:457][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Stone_Coffin_C.T_Stone_Coffin_C]
+[2025.06.07-05.18.44:457][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Stone_Coffin_C]
+[2025.06.07-05.18.44:643][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Stone_Coffin_C
+[2025.06.07-05.18.44:644][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Stone_Coffin_C90D667BE4640D1768C9C38BE9618C2C6.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Stone_Coffin_C.uasset'
+[2025.06.07-05.18.44:644][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Stone_Coffin_N] ([1] browsable assets)...
+[2025.06.07-05.18.44:648][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Stone_Coffin_N.T_Stone_Coffin_N]
+[2025.06.07-05.18.44:648][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Stone_Coffin_N]
+[2025.06.07-05.18.44:882][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Stone_Coffin_N
+[2025.06.07-05.18.44:883][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Stone_Coffin_NAD9DF202407272BB678CB092F82F9D8A.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Stone_Coffin_N.uasset'
+[2025.06.07-05.18.44:884][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_baseColor] ([1] browsable assets)...
+[2025.06.07-05.18.44:885][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_baseColor.default_baseColor]
+[2025.06.07-05.18.44:885][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_baseColor]
+[2025.06.07-05.18.44:943][601]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_baseColor
+[2025.06.07-05.18.44:944][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/default_baseColorA99549DB4C3B57DD9B987899BA3AA01E.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_baseColor.uasset'
+[2025.06.07-05.18.44:946][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_metallicRoughness] ([1] browsable assets)...
+[2025.06.07-05.18.44:948][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_metallicRoughness.default_metallicRoughness]
+[2025.06.07-05.18.44:948][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_metallicRoughness]
+[2025.06.07-05.18.45:012][601]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_metallicRoughness
+[2025.06.07-05.18.45:012][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/default_metallicRoughnessD96AE6D840562867C60D6F9CD108CFD8.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_metallicRoughness.uasset'
+[2025.06.07-05.18.45:014][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_normal] ([1] browsable assets)...
+[2025.06.07-05.18.45:015][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_normal.default_normal]
+[2025.06.07-05.18.45:015][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_normal]
+[2025.06.07-05.18.45:108][601]LogSavePackage: Moving output files for package: /Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_normal
+[2025.06.07-05.18.45:109][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/default_normalF60B94B741EF9B4CA1D541952DA8A470.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_normal.uasset'
+[2025.06.07-05.18.45:110][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Torch_A] ([1] browsable assets)...
+[2025.06.07-05.18.45:112][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Torch_A.T_Torch_A]
+[2025.06.07-05.18.45:112][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Torch_A]
+[2025.06.07-05.18.45:112][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Torch_A" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Torch_A.uasset" SILENT=true
+[2025.06.07-05.18.45:328][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Torch_A
+[2025.06.07-05.18.45:328][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Torch_A88E9E67540BD2E36C0E082A18779CDEB.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Torch_A.uasset'
+[2025.06.07-05.18.45:329][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Torch_C] ([1] browsable assets)...
+[2025.06.07-05.18.45:331][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Torch_C.T_Torch_C]
+[2025.06.07-05.18.45:331][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Torch_C]
+[2025.06.07-05.18.45:331][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Torch_C" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Torch_C.uasset" SILENT=true
+[2025.06.07-05.18.45:592][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Torch_C
+[2025.06.07-05.18.45:592][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Torch_CA5FDF9B048F8DC2D5BE5A997012495C6.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Torch_C.uasset'
+[2025.06.07-05.18.45:593][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Textures/T_Torch_N] ([1] browsable assets)...
+[2025.06.07-05.18.45:596][601]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MedievalDungeon/Textures/T_Torch_N.T_Torch_N]
+[2025.06.07-05.18.45:596][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Textures/T_Torch_N]
+[2025.06.07-05.18.45:596][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MedievalDungeon/Textures/T_Torch_N" FILE="../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Torch_N.uasset" SILENT=true
+[2025.06.07-05.18.45:898][601]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Textures/T_Torch_N
+[2025.06.07-05.18.45:898][601]LogSavePackage: Moving '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Saved/T_Torch_N278615814BD2C6C1B81073ABA0054AAA.tmp' to '../../../../../../UnrealProjects/Game-Jam/MotorJamVR/Content/MedievalDungeon/Textures/T_Torch_N.uasset'
+[2025.06.07-05.18.45:908][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.6 sec (total: 41.5 sec)
+[2025.06.07-05.18.46:032][601]LogContentValidation: Display: Starting to validate 58 assets
+[2025.06.07-05.18.46:032][601]LogContentValidation: Enabled validators:
+[2025.06.07-05.18.46:032][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.07-05.18.46:032][601]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.07-05.18.46:032][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.07-05.18.46:032][601]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.07-05.18.46:032][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.07-05.18.46:032][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_StoneWall_A Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_StoneWall_C Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_StoneWall_H Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_StoneWall_N Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Albedo Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Compact Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Candle_Holder_A Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Candle_Holder_C Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Gargoyle_A Validating asset
+[2025.06.07-05.18.46:033][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Gargoyle_C Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Gargoyle_N Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_A Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_C Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_N Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_A Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_C Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_DoorHardware_Albedo Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_DoorHardware_C Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_DoorHardware_N Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Albedo Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Normal Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_DoorWay_Large_DoorRight_Compact Validating asset
+[2025.06.07-05.18.46:034][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Large_Window_Half_A Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Large_Window_Half_C Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Large_Window_Half_N Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_A Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_C Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_N Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_A Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_C Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_A Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_C Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_N Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_C Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_A Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_C Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_N Validating asset
+[2025.06.07-05.18.46:035][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Cell_Side_A Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Cell_Side_C Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Cell_Side_N Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Half_Arch_A Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Half_Arch_C Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Half_Arch_N Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Stone_Altar_A Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Stone_Altar_C Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Stone_Altar_N Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Candles_C Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Candles_N Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Stone_Coffin_A Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Stone_Coffin_C Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Stone_Coffin_N Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_baseColor Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_metallicRoughness Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/ModelosProprios/Objetos/Espelho/Espelho_Texturas/default_normal Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Torch_A Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Torch_C Validating asset
+[2025.06.07-05.18.46:036][601]AssetCheck: /Game/MedievalDungeon/Textures/T_Torch_N Validating asset
+[2025.06.07-05.18.48:419][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.06.07-05.18.48:499][731]LogStall: Shutdown...
+[2025.06.07-05.18.48:499][731]LogStall: Shutdown complete.
+[2025.06.07-05.18.48:736][731]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.48:739][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.49:596][731]LogSlate: Window 'MotorJam - Unreal Editor' being destroyed
+[2025.06.07-05.18.53:534][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.06.07-05.18.53:672][731]Cmd: QUIT_EDITOR
+[2025.06.07-05.18.53:673][731]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.07-05.18.53:695][732]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.07-05.18.53:699][732]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.07-05.18.53:700][732]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.07-05.18.53:750][732]LogWorld: UWorld::CleanupWorld for sala_principal, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:753][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:812][732]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.07-05.18.53:826][732]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.07-05.18.53:907][732]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:907][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:912][732]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:912][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:919][732]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:919][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:926][732]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:927][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:932][732]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:932][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:939][732]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:939][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:944][732]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:944][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:951][732]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:951][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:957][732]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:957][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:963][732]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:963][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:968][732]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:968][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:972][732]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:973][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:978][732]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:978][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:985][732]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:985][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:991][732]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:991][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.53:998][732]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.53:998][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:005][732]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:005][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:009][732]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:009][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:014][732]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:016][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:020][732]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:020][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:026][732]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:026][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:030][732]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:030][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:036][732]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:036][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:040][732]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:040][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:047][732]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:047][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:054][732]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:054][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:059][732]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:059][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:063][732]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:063][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:068][732]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:068][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:073][732]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:073][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:078][732]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:078][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:083][732]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:083][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:088][732]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:088][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:093][732]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:093][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:098][732]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:098][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:102][732]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:102][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:108][732]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:108][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:112][732]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:112][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:117][732]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:117][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:121][732]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:121][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:124][732]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:124][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:129][732]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:129][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:133][732]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:133][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:138][732]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:138][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:142][732]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:143][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:147][732]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:147][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:151][732]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:151][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:156][732]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:156][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:159][732]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:160][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:165][732]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:165][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:170][732]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:170][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:174][732]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:174][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:178][732]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:178][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:182][732]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:182][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:186][732]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:186][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:189][732]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:190][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:193][732]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:193][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:198][732]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:198][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:203][732]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:203][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:208][732]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2025.06.07-05.18.54:208][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.07-05.18.54:231][732]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.07-05.18.54:243][732]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.06.07-05.18.54:244][732]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.06.07-05.18.54:244][732]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.06.07-05.18.54:376][732]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.07-05.18.54:376][732]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.07-05.18.54:376][732]LogAudio: Display: Audio Device unregistered from world 'sala_principal'.
+[2025.06.07-05.18.54:377][732]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.07-05.18.54:381][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.07-05.18.54:391][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.07-05.18.54:413][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.07-05.18.54:413][732]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.07-05.18.54:416][732]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.06.07-05.18.54:426][732]LogExit: Preparing to exit.
+[2025.06.07-05.18.54:553][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.06.07-05.18.54:581][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:582][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:588][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:588][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:589][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:590][732]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.54:590][732]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.07-05.18.55:774][732]LogEditorDataStorage: Deinitializing
+[2025.06.07-05.18.56:509][732]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.07-05.18.56:684][732]LogExit: Editor shut down
+[2025.06.07-05.18.56:704][732]LogExit: Transaction tracking system shut down
+[2025.06.07-05.18.57:648][732]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 2.
+[2025.06.07-05.18.57:703][732]LogExit: Object subsystem successfully closed.
+[2025.06.07-05.18.57:749][732]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.07-05.18.59:010][732]LogMemoryProfiler: Shutdown
+[2025.06.07-05.18.59:011][732]LogNetworkingProfiler: Shutdown
+[2025.06.07-05.18.59:011][732]LoadingProfiler: Shutdown
+[2025.06.07-05.18.59:011][732]LogTimingProfiler: Shutdown
+[2025.06.07-05.18.59:744][732]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.06.07-05.18.59:750][732]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.07-05.18.59:827][732]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.07-05.18.59:827][732]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3C5D4909-4D74-4336-EF57-CE92C8845ADA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=856f0dcc4ce42309a75430bc05189d54%7C57860fe7983c4fffb466f8410bbc7064%7C0f1cd313-1ae6-4276-9d0e-b51c07c01c94&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.07-05.19.00:426][732]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.07-05.19.00:433][732]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.06.07-05.19.00:434][732]RenderDocPlugin: plugin has been unloaded.
+[2025.06.07-05.19.00:434][732]LogNFORDenoise: NFORDenoise function shutting down
+[2025.06.07-05.19.00:472][732]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.06.07-05.19.00:472][732]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.06.07-05.19.00:473][732]LogPakFile: Destroying PakPlatformFile
+[2025.06.07-05.19.01:100][732]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.07-05.19.01:139][732]LogExit: Exiting.
+[2025.06.07-05.19.01:174][732]Log file closed, 06/07/25 02:19:01
